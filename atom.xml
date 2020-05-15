@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://martinsol.github.io</id>
     <title>MartinSol的树洞</title>
-    <updated>2020-05-15T16:29:06.846Z</updated>
+    <updated>2020-05-15T17:22:04.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://martinsol.github.io"/>
     <link rel="self" href="https://martinsol.github.io/atom.xml"/>
@@ -10,4 +10,18 @@
     <logo>https://martinsol.github.io/images/avatar.png</logo>
     <icon>https://martinsol.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, MartinSol的树洞</rights>
+    <entry>
+        <title type="html"><![CDATA[游戏记录 2020年5月16日]]></title>
+        <id>https://martinsol.github.io/post/you-xi-ji-lu-2020-nian-5-yue-16-ri/</id>
+        <link href="https://martinsol.github.io/post/you-xi-ji-lu-2020-nian-5-yue-16-ri/">
+        </link>
+        <updated>2020-05-15T17:17:31.000Z</updated>
+        <content type="html"><![CDATA[<p>炉石酒馆战旗五把三鸡（虽然只是4000分段😅）<br>
+<img src="https://martinsol.github.io/post-images/1589563116949.jpg" alt="" loading="lazy"><br>
+最爽的一把，蓝龙整活一血吃鸡<br>
+<img src="https://martinsol.github.io/post-images/1589563140596.png" alt="" loading="lazy"><br>
+刀塔霸业的勇士令状靠打人机都快满级了<br>
+<img src="https://martinsol.github.io/post-images/1589563238618.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
 </feed>
